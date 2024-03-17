@@ -65,7 +65,7 @@ https://console.cloud.google.com/google/maps-apis/api-list?project=uber-kmeans-1
 
 # Remove the `#` in front of the next line of code and enter your API key.
 
-register_google(key <- "AIzaSyAup9HxDQO4vzA0B4ba56CSFFrczKl7n5I", write = TRUE)
+register_google(key <- "###REDACTED###", write = TRUE)
 ``` 
 
 ## Step 1.3 - Get Latitudes and Longitudes
