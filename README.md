@@ -1,7 +1,6 @@
 # DataMineLab4
 
-Data Mining Lab 4
-Tampa Crime Analysis Mapping
+Data Mining Lab 4: Tampa Crime Analysis Mapping
 
 Please use:
 
